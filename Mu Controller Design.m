@@ -1,5 +1,5 @@
-%%%Mu Controller Design %%%
-%Author: Thanushan Ambalavanan (100662304)%
+%%% u Controller Design %
+%Author: Thanushan Ambalavanan%
 %This simulation example is from MathWorks: https://www.mathworks.com/help/robust/ref/uss.musyn.html#d124e33228%
 %Obtained Date:11/15/2022%
 %Modified Date:11/15/2022%
